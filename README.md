@@ -5,23 +5,7 @@
 🤝 Love collaborating in open source and real-world projects  
 🌐 [Visit my website](https://satriaramadan.vercel.app)
 
----
 
-## 🧠 Skills & Tools
-
-| Language / Tool     
-|---------------------
-| 🔥 Dart & Flutter  
-| 🐍 Python           
-| 💻 JavaScript       
-| 🎨 HTML & CSS     
-| ☁️ Firebase        
-| 🔧 Git              
-| 🐹 Golang        
-| 🧩 Node.js          
-
-
----
 
 ## 📊 GitHub Stats
 
@@ -42,7 +26,7 @@
 
 ## ⚡ Fun Fact
 
-Saya suka **olahraga naik gunung** 🏔️ – tantangan fisik dan mental adalah bagian dari perjalanan hidup!
+I love **mountain climbing 🏔️** – physical and mental challenges are part of life's journey!
 
 ---
 
