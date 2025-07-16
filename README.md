@@ -9,8 +9,6 @@
 
 ## 📊 GitHub Stats
 
-![Satria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=strhmdn14102004&show_icons=true&theme=tokyonight&count_private=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=strhmdn14102004&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strhmdn14102004&layout=compact&theme=tokyonight)
